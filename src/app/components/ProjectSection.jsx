@@ -48,7 +48,7 @@ const projectsData = [
       "News aggregation app using React and News APIs to deliver real-time news updates.",
     image: "/images/projects/6.jpg",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/GhugareSanika/React_NewsApp.git",
+    gitUrl: "https://github.com/GhugareSanika/News_App_React.git",
     previewUrl: "https://dailynews881.netlify.app/",
   },
   {
@@ -57,8 +57,8 @@ const projectsData = [
     description: "Personal portfolio site using Next.js and Tailwind CSS.",
     image: "/images/projects/1.jpg",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/GhugareSanika/portfolio.git",
+    previewUrl: "https://myportfolio884.netlify.app/",
   },
   {
     id: 7,
