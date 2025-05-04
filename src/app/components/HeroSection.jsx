@@ -40,8 +40,8 @@ const HeroSection = () => {
               </button>
             </Link>
             <a
-              href="/files/Sanika1.cv.pdf"
-              download="Sanika1_cv.pdf"
+              href="/files/SanikaGhugare_Resume.pdf"
+              download="SanikaGhugare_Resume.pdf"
               className="block px-2 py-2 w-full sm:w-fit rounded-full bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-600 text-white mt-3 sm:mt-0"
             >
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-4 py-1">
