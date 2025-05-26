@@ -11,7 +11,7 @@ const projectsData = [
     image: "/images/projects/2.jpg",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/GhugareSanika/Realtime-WhiteBoard.git",
-    previewUrl: "https://realtime-whiteboard-sharing-app11.netlify.app/",
+    previewUrl: "https://realtime-white-board-ub24.vercel.app/",
   },
   {
     id: 2,
